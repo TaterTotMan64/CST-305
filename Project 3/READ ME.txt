@@ -1,0 +1,20 @@
+How to run:
+- Use Python 3.12
+
+Using Python file "Project 3 – Green's Function and ODE with IVP.py":
+1. Open Python code: "Project 3 – Green's Function and ODE with IVP.py"
+2. Install these packages:
+ a. numpy
+ b. scipy
+ c. matplotlib
+3. Run the program
+
+Using PyCharm file "Project 3 – Green's Function and ODE with IVP.ipynb":
+1. Open Python code: "Project 3 – Green's Function and ODE with IVP.ipynb" in PyCharm
+Note - the file should save the outputs from the last time it was run
+       these outputs can be seen in Visual Studios Code.
+2. Install these packages:
+ a. numpy
+ b. scipy
+ c. matplotlib
+3. Run the program
