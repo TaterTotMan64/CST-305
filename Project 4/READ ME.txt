@@ -1,0 +1,20 @@
+How to run:
+- Use Python 3.12
+
+Using Python file "Benchmark – Project 4 – Degradation of Data Integrity.py":
+1. Open Python code: "Benchmark – Project 4 – Degradation of Data Integrity.py"
+2. Install these packages:
+ a. numpy
+ b. scipy
+ c. matplotlib
+3. Run the program
+
+Using PyCharm file "Benchmark – Project 4 – Degradation of Data Integrity.ipynb":
+1. Open Python code: "Benchmark – Project 4 – Degradation of Data Integrity.ipynb" in PyCharm
+Note - the file should save the outputs from the last time it was run
+       these outputs can be seen in Visual Studios Code.
+2. Install these packages:
+ a. numpy
+ b. scipy
+ c. matplotlib
+3. Run the program
