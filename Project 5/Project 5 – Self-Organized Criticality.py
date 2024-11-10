@@ -1,3 +1,9 @@
+# Programmers: Grant Burk and Ben Croyle
+#
+# Code packages: numpy and matplotlib (see below)
+#
+# The approach to implement was very simple, just define the lorenz equation with the initial value and then get the r value from user input. There are 4 graphs outputted, 1 3d plot and 3 2d plots.
+
 import numpy as np
 import matplotlib.pyplot as plt
 

@@ -1,20 +1,14 @@
 How to run:
 - Use Python 3.12
 
-Using Python file "Benchmark – Project 4 – Degradation of Data Integrity.py":
-1. Open Python code: "Benchmark – Project 4 – Degradation of Data Integrity.py"
+import numpy as np
+import matplotlib.pyplot as plt
+
+Using Python file "Project 5 – Self-Organized Criticality.py":
+1. Open Python code: "Project 5 – Self-Organized Criticality.py"
 2. Install these packages:
  a. numpy
- b. scipy
- c. matplotlib
+ b. matplotlib
 3. Run the program
 
-Using PyCharm file "Benchmark – Project 4 – Degradation of Data Integrity.ipynb":
-1. Open Python code: "Benchmark – Project 4 – Degradation of Data Integrity.ipynb" in PyCharm
-Note - the file should save the outputs from the last time it was run
-       these outputs can be seen in Visual Studios Code.
-2. Install these packages:
- a. numpy
- b. scipy
- c. matplotlib
-3. Run the program
+Note: "Project 5 – Self-Organized Criticality.ipynd" is there just to show the outputs so it doesn't need to be run.
