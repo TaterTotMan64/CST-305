@@ -40,7 +40,7 @@ def lorenz_attractor(x, y, z, dt=0.01, s=10, b=2.667, r=28):
 
 
 # Initial values
-x0, y0, z0 = 11.8, 4.4, 2.4  # Starting values for the Lorenz attractor
+x0, y0, z0 = 11.8, 4.4, 2.4  # Starting values for the Lorenz attractor. Storage values in KBs
 
 while True:
 
