@@ -1,0 +1,14 @@
+How to run:
+- Use Python 3.12
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+Using Python file "Project 5 – Self-Organized Criticality.py":
+1. Open Python code: "Project 5 – Self-Organized Criticality.py"
+2. Install these packages:
+ a. numpy
+ b. matplotlib
+3. Run the program
+
+Note: "Project 5 – Self-Organized Criticality.ipynd" is there just to show the outputs so it doesn't need to be run.
