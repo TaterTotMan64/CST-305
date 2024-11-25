@@ -1,14 +1,13 @@
 How to run:
 - Use Python 3.12
 
-import numpy as np
-import matplotlib.pyplot as plt
-
-Using Python file "Project 5 – Self-Organized Criticality.py":
-1. Open Python code: "Project 5 – Self-Organized Criticality.py"
+Using Python file "Project 6 – Numeric Computations with Taylor Polynomials.py":
+1. Open Python code: "Project 6 – Numeric Computations with Taylor Polynomials.py"
 2. Install these packages:
  a. numpy
  b. matplotlib
+ c. scipy
+ d. sympy
 3. Run the program
 
-Note: "Project 5 – Self-Organized Criticality.ipynd" is there just to show the outputs so it doesn't need to be run.
+Note: "Project 6 – Numeric Computations with Taylor Polynomials.ipynd" is there just to show the outputs so it doesn't need to be run.
