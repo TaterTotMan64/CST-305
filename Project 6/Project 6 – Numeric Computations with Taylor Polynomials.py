@@ -139,7 +139,6 @@ plt.legend()
 plt.show()
 
 
-# Part 2:
 print()
 print()
 print("Part 2:")
@@ -148,16 +147,16 @@ print()
 # Define the recurrence relation
 def recurrence_relation(n, a):
     if n == 0:
-        return 0  # a_0 = 0
+        return 1  # a_0 = 0
     elif n == 1:
-        return 1/4  # a_1 = 1/4
+        return 1  # a_1 = 1
     else:
         return -((n*(n-1) + 1) * a[n-2] / (4 * (n+2)*(n+1)))
 
 # Calculate coefficients up to n ≤ 8
 a = [0] * 9  # Initialize coefficients list (0 to 8)
-a[0] = 0  # Initial condition: a_0 = 0
-a[1] = 1/4  # Initial condition: a_1 = 1/4
+a[0] = 1  # Initial condition: a_0 = 0
+a[1] = 1  # Initial condition: a_1 = 1/4
 
 for n in range(2, 9):
     a[n] = recurrence_relation(n, a)
@@ -172,7 +171,7 @@ def taylor_series(x, a):
     return sum(a[n] * x**n for n in range(9))
 
 # Generate x values for plotting
-x_vals = np.linspace(-30, 30, 400)
+x_vals = np.linspace(-5, 5, 400)
 y_vals = taylor_series(x_vals, a)
 
 # Plot the Taylor series
