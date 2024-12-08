@@ -1,13 +1,12 @@
 How to run:
 - Use Python 3.12
 
-Using Python file "Project 6 – Numeric Computations with Taylor Polynomials.py":
-1. Open Python code: "Project 6 – Numeric Computations with Taylor Polynomials.py"
+Using Python file "Project 7 – Code Errors and the Butterfly Effect.py":
+1. Open Python code: "Project 7 – Code Errors and the Butterfly Effect.py"
 2. Install these packages:
  a. numpy
  b. matplotlib
- c. scipy
- d. sympy
 3. Run the program
 
-Note: "Project 6 – Numeric Computations with Taylor Polynomials.ipynd" is there just to show the outputs so it doesn't need to be run.
+Note: "Project 7 – Code Errors and the Butterfly Effect.ipynd" is there just to show the outputs and to prove that we
+    were able to run the program ourselves so it doesn't need to be run.
