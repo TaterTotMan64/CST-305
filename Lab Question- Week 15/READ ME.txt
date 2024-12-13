@@ -1,0 +1,12 @@
+How to run:
+- Use Python 3.12
+
+Using Python file "Lab Question- Week 15.py":
+1. Open Python code: "Lab Question- Week 15.py"
+2. Install these packages:
+ a. numpy
+ b. matplotlib
+3. Run the program
+
+Note: "Lab Question- Week 15.ipynd" is there just to show the outputs and to prove that we
+    were able to run the program ourselves so it doesn't need to be run.
