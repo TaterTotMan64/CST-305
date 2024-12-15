@@ -1,12 +1,13 @@
 How to run:
 - Use Python 3.12
 
-Using Python file "Project 7 – Code Errors and the Butterfly Effect.py":
-1. Open Python code: "Project 7 – Code Errors and the Butterfly Effect.py"
+Using Python file "Project 8 – Numerical Integration.py":
+1. Open Python code: "Project 8 – Numerical Integration.py"
 2. Install these packages:
  a. numpy
  b. matplotlib
+ c. scipy
 3. Run the program
 
-Note: "Project 7 – Code Errors and the Butterfly Effect.ipynd" is there just to show the outputs and to prove that we
+Note: "Project 8 – Numerical Integration.ipynd" is there just to show the outputs and to prove that we
     were able to run the program ourselves so it doesn't need to be run.
